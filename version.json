@@ -1,7 +1,7 @@
 {
-  "version": "3.2.1",
-  "date": "2026-04-18",
-  "changes": "Add New Settings Interfaces; Optimisation; Rpc Amelioration",
-  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v3.2.1/Z-FLIX-Setup-3.2.1.exe",
+  "version": "3.3.0",
+  "date": "2026-06-04",
+  "changes": "Correctif Téléchargements : Routage automatique des liens externes vers le navigateur système par défaut, notification native de confirmation et bouton Retour dynamique.",
+  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v3.3.0/Z-FLIX-Setup-3.3.0.exe",
   "mandatory": false
 }
