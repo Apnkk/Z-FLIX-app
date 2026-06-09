@@ -1,7 +1,7 @@
 {
-  "version": "3.4.0",
-  "date": "2026-06-05",
-  "changes": "Mise à jour majeure des paramètres PC : Ajout d'une option pour activer/désactiver l'intro du démarrage, choix du modèle d'intro (nouvelle animation webm vs classique mp4), et intégration des réglages système natifs (auto-launch, tray, start minimized).",
-  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v3.4.0/Z-FLIX-Setup-3.4.0.exe",
+  "version": "3.5.0",
+  "date": "2026-06-09",
+  "changes": "Modification de l'intro par défaut et intégration de multiples choix d'intros.",
+  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v3.5.0/Z-FLIX-Setup-3.5.0.exe",
   "mandatory": false
 }
