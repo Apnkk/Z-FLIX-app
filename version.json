@@ -1,8 +1,8 @@
 {
-  "version": "3.5.1",
-  "date": "2026-06-10",
-  "changes": "Fenêtre adaptée aux petits écrans, sécurité OAuth/updater renforcée, correctifs stabilité (titlebar, session).",
-  "downloadUrl": "https://github.com/Apnkk/Z-FLIX-app/releases/download/v3.5.1/Z-FLIX-Setup-3.5.1.exe",
-  "sha512": "3e023731925c521584e64f3b2685dbb1765762b99ef388ef9b735843226bc0f7cc2d059d990548c305d7327c5872a56178fcb1c7f059848e84da9bdc58c972a6",
+  "version": "3.6.0",
+  "date": "2026-06-12",
+  "changes": "Correctif updater, choix d'intro, recherche sources plus rapide (timeout Nakastream), message si aucune source ne fonctionne.",
+  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v3.6.0/Z-FLIX-Setup-3.6.0.exe",
+  "sha512": "d413c611a4fd36000e5c7f4b3841b37638e54007110270d87a1027ec8230bcc2813b5f999281933067696e895072335bba4a8654b956409421b0de5c9a6c6ece",
   "mandatory": false
 }
