@@ -1,7 +1,8 @@
 {
-  "version": "3.5.0",
-  "date": "2026-06-09",
-  "changes": "Modification de l'intro par défaut et intégration de multiples choix d'intros.",
-  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v3.5.0/Z-FLIX-Setup-3.5.0.exe",
+  "version": "3.5.1",
+  "date": "2026-06-10",
+  "changes": "Fenêtre adaptée aux petits écrans, sécurité OAuth/updater renforcée, correctifs stabilité (titlebar, session).",
+  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v3.5.1/Z-FLIX-Setup-3.5.1.exe",
+  "sha512": "3e023731925c521584e64f3b2685dbb1765762b99ef388ef9b735843226bc0f7cc2d059d990548c305d7327c5872a56178fcb1c7f059848e84da9bdc58c972a6",
   "mandatory": false
 }
