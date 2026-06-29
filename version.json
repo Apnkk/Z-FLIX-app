@@ -1,8 +1,8 @@
 {
-  "version": "3.6.0",
-  "date": "2026-06-12",
-  "changes": "Correctif updater, choix d'intro, recherche sources plus rapide (timeout Nakastream), message si aucune source ne fonctionne.",
-  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v3.6.0/Z-FLIX-Setup-3.6.0.exe",
+  "version": "4.0.0",
+  "date": "2026-06-29",
+  "changes": "Mise à jour majeure 4.0.0 : Ajout du système de téléchargement (liens Magnet/Torrent) natif.",
+  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v4.0.0/Z-FLIX-Setup-4.0.0.exe",
   "sha512": "d413c611a4fd36000e5c7f4b3841b37638e54007110270d87a1027ec8230bcc2813b5f999281933067696e895072335bba4a8654b956409421b0de5c9a6c6ece",
   "mandatory": false
 }
