@@ -1,8 +1,0 @@
-{
-  "version": "4.0.0",
-  "date": "2026-06-29",
-  "changes": "Mise à jour majeure 4.0.0 : Ajout du système de téléchargement (liens Magnet/Torrent) natif.",
-  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v4.0.0/Z-FLIX-Setup-4.0.0.exe",
-  "sha512": "840ca2d7805fca9bb18f34167a6c8475fa56f28fba8781cda25ad7e2588433bad7a1193de191578f488fb1f09b21fcf04c5246710f239958745107427d352186",
-  "mandatory": false
-}
