@@ -1,8 +1,8 @@
 {
-  "version": "4.0.0",
-  "date": "2026-06-29",
-  "changes": "Mise à jour majeure 4.0.0 : Ajout du système de téléchargement (liens Magnet/Torrent) natif.",
-  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v4.0.0/Z-FLIX-Setup-4.0.0.exe",
-  "sha512": "840ca2d7805fca9bb18f34167a6c8475fa56f28fba8781cda25ad7e2588433bad7a1193de191578f488fb1f09b21fcf04c5246710f239958745107427d352186",
+  "version": "4.5.0",
+  "date": "2026-06-30",
+  "changes": "Support complet de la connexion et liaison Google OAuth depuis l'application de bureau.",
+  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v4.5.0/Z-FLIX-Setup-4.5.0.exe",
+  "sha512": "865c9f6de4f2dbe248eb71c2821f8986dcf025b553bb32ea112214d2eb0c2e74a17ca436a531e949f125aae2419e3bf572419688aef84d2c6f347a4edde6deea",
   "mandatory": false
 }
