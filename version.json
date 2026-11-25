@@ -1,8 +1,8 @@
 {
-  "version": "6.0.59",
-  "date": "2026-09-05",
-  "changes": "Barre latérale réduite par défaut (configurable), lecteur vidéo modernisé sans trait rouge et confort de visionnage accru.",
-  "downloadUrl": "https://github.com/Apnkk/Z-FLIX-app/releases/download/v6.0.59/Z-Movies_6.0.59_x64-setup.exe",
-  "sha512": "d794d44dc4a9147d813158b900738b5512fadb99396ffd75c0b50ed82fee5cd86e558acbeb4acd3fe45bdc2ce8608c4a84dff8e0fa4343663a6dfd8426d08ea1",
+  "version": "6.0.64",
+  "date": "2026-11-25",
+  "changes": "Certificat de signature renouvelé (téléchargement manuel sur GitHub si l'auto-update bloque). Qualité maximale automatique au lancement, sélecteur Qualité dédié (Auto, 4K, 1080p, 720p, 480p), changement de résolution sans coupure, tampon HLS optimisé et serveurs multi-sources stabilisés.",
+  "downloadUrl": "https://github.com/Apnkk/Z-FLIX-app/releases/download/v6.0.64/Z-Movies_6.0.64_x64-setup.exe",
+  "sha512": "4e04a32927e699a72b03b98c6c6535fe81fcdc7cc552a3da6ce0412e3a85aeb6e87e207b0c224e83fe27e97583e83966b5358db71af900682c04481c6890277a",
   "mandatory": false
 }
