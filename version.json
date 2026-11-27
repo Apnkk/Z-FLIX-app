@@ -1,8 +1,8 @@
 {
-  "version": "6.0.64",
-  "date": "2026-11-25",
-  "changes": "Certificat de signature renouvelé (téléchargement manuel sur GitHub si l'auto-update bloque). Qualité maximale automatique au lancement, sélecteur Qualité dédié (Auto, 4K, 1080p, 720p, 480p), changement de résolution sans coupure, tampon HLS optimisé et serveurs multi-sources stabilisés.",
-  "downloadUrl": "https://github.com/Apnkk/Z-FLIX-app/releases/download/v6.0.64/Z-Movies_6.0.64_x64-setup.exe",
-  "sha512": "4e04a32927e699a72b03b98c6c6535fe81fcdc7cc552a3da6ce0412e3a85aeb6e87e207b0c224e83fe27e97583e83966b5358db71af900682c04481c6890277a",
-  "mandatory": false
+    "version":  "6.0.65",
+    "sha512":  "9f726633cf9db608f61880be285b8636f4e076185eb3ae6f48cf8ea862fdc250aee78cbafa6d8c9dbc0a42e9fe68425c39806cceba5ee8f528bfd66011679728",
+    "downloadUrl":  "https://github.com/Apnkk/Z-FLIX-app/releases/download/v6.0.65/Z-Movies_6.0.65_x64-setup.exe",
+    "mandatory":  false,
+    "date":  "2026-11-27",
+    "changes":  "Changement de résolution immédiat dans le lecteur (480p / 720p / 1080p / 4K), bascule automatique sur source compatible, proxy média étendu et erreurs de lecture fiabilisées."
 }
